@@ -77,11 +77,11 @@ msgstr "Keine Verbindung zum Internet möglich, bitte Zugangsdaten prüfen."
 
 #: public/views/includes/connection.html
 msgid ""
-"Can't connect to ravend to get live updates from the p2p network. (Tried "
-"connecting to ravend at {{host}}:{{port}} and failed.)"
+"Can't connect to ritod to get live updates from the p2p network. (Tried "
+"connecting to ritod at {{host}}:{{port}} and failed.)"
 msgstr ""
-"Es ist nicht möglich mit Ravencoind zu verbinden um live Aktualisierungen "
-"vom P2P Netzwerk zu erhalten. (Verbindungsversuch zu ravend an {{host}}:"
+"Es ist nicht möglich mit Ritocoind zu verbinden um live Aktualisierungen "
+"vom P2P Netzwerk zu erhalten. (Verbindungsversuch zu ritod an {{host}}:"
 "{{port}} ist fehlgeschlagen.)"
 
 #: public/views/charts.html
@@ -206,8 +206,8 @@ msgid "Last Block"
 msgstr "Letzter Block"
 
 #: public/views/status.html
-msgid "Last Block Hash (Ravend)"
-msgstr "Letzter Hash (Ravend)"
+msgid "Last Block Hash (Ritod)"
+msgstr "Letzter Hash (Ritod)"
 
 #: public/views/index.html
 msgid "Latest Blocks"
@@ -319,20 +319,20 @@ msgid "PSA for Pool Operators:"
 msgstr "Öffentliche Bekanntmachung für Poolbetreiber:"
 
 #: public/views/messages_verify.html
-msgid "Ravencoin comes with a way of signing arbitrary messages."
-msgstr "Ravencoin bietet eine Möglichkeit, beliebige Nachrichten zu signieren."
+msgid "Ritocoin comes with a way of signing arbitrary messages."
+msgstr "Ritocoin bietet eine Möglichkeit, beliebige Nachrichten zu signieren."
 
 #: public/views/index.html
-msgid "Ravencoin Community"
-msgstr "Ravencoin Gemeinschaft"
+msgid "Ritocoin Community"
+msgstr "Ritocoin Gemeinschaft"
 
 #: public/views/status.html
-msgid "Ravencoin node information"
-msgstr "Ravencoin-Node Info"
+msgid "Ritocoin node information"
+msgstr "Ritocoin-Node Info"
 
 #: public/views/index.html
-msgid "Ravencore"
-msgstr "Ravencore"
+msgid "Ritocore"
+msgstr "Ritocore"
 
 #: public/views/transaction_sendraw.html
 msgid "Raw transaction data"
@@ -447,18 +447,18 @@ msgstr "Es gibt keine Transaktionen zu dieser Adressse."
 #: public/views/transaction_sendraw.html
 msgid ""
 "This form can be used to broadcast a raw transaction in hex format over\n"
-"        the Ravencoin network."
+"        the Ritocoin network."
 msgstr ""
 "Dieses Formular kann verwendet werden, um eine unbearbeitete Transaktion\n"
-"        im Hex-Format zu übertragen das Ravencoin-Netzwerk."
+"        im Hex-Format zu übertragen das Ritocoin-Netzwerk."
 
 #: public/views/messages_verify.html
 msgid ""
 "This form can be used to verify that a message comes from\n"
-"        a specific Ravencoin address."
+"        a specific Ritocoin address."
 msgstr ""
 "Dieses Formular kann verwendet werden, um zu überprüfen, ob\n"
-"        eine Nachricht stammt eine spezifische Ravencoin-Adresse."
+"        eine Nachricht stammt eine spezifische Ritocoin-Adresse."
 
 #: public/views/status.html
 msgid "Time Offset"
@@ -535,30 +535,30 @@ msgstr "Warte auf Transaktionen..."
 
 #~ msgid ""
 #~ "<strong>insight</strong>  is an <a href=\"http://live.insight.is/\" "
-#~ "target=\"_blank\">open-source Ravencoin blockchain explorer</a> with "
+#~ "target=\"_blank\">open-source Ritocoin blockchain explorer</a> with "
 #~ "complete REST and websocket APIs that can be used for writing web wallets "
 #~ "and other apps  that need more advanced blockchain queries than provided "
-#~ "by ravend RPC.  Check out the <a href=\"https://github.com/underdarkskies/"
+#~ "by ritod RPC.  Check out the <a href=\"https://github.com/traysi/"
 #~ "insight-ui\" target=\"_blank\">source code</a>."
 #~ msgstr ""
 #~ "<strong>insight</strong> ist ein <a href=\"http://live.insight.is/\" "
-#~ "target=\"_blank\">Open Source Ravencoin Blockchain Explorer</a> mit "
+#~ "target=\"_blank\">Open Source Ritocoin Blockchain Explorer</a> mit "
 #~ "vollständigen REST und Websocket APIs um eigene Wallets oder "
 #~ "Applikationen zu implementieren. Hierbei werden fortschrittlichere "
-#~ "Abfragen der Blockchain ermöglicht, bei denen die RPC des Ravencoind "
+#~ "Abfragen der Blockchain ermöglicht, bei denen die RPC des Ritocoind "
 #~ "nicht mehr ausreichen. Der aktuelle <a href=\"https://github.com/"
-#~ "underdarkskies/insight-ui\" target=\"_blank\">Quellcode</a> ist auf "
+#~ "traysi/insight-ui\" target=\"_blank\">Quellcode</a> ist auf "
 #~ "Github zu finden."
 
 #~ msgid ""
 #~ "<strong>insight</strong> is still in development, so be sure to report "
 #~ "any bugs and provide feedback for improvement at our <a href=\"https://"
-#~ "github.com/underdarkskies/insight/issues\" target=\"_blank\">github issue "
+#~ "github.com/traysi/insight/issues\" target=\"_blank\">github issue "
 #~ "tracker</a>."
 #~ msgstr ""
 #~ "<strong>insight</strong> befindet sich aktuell noch in der Entwicklung. "
 #~ "Bitte sende alle gefundenen Fehler (Bugs) und Feedback zur weiteren "
-#~ "Verbesserung an unseren <a href=\"https://github.com/underdarkskies/"
+#~ "Verbesserung an unseren <a href=\"https://github.com/traysi/"
 #~ "insight-ui/issues\" target=\"_blank\">Github Issue Tracker</a>."
 
 #~ msgid "About"

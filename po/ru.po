@@ -77,11 +77,11 @@ msgstr "Не удается подключиться к Интернету. Пр
 
 #: public/views/includes/connection.html
 msgid ""
-"Can't connect to ravend to get live updates from the p2p network. (Tried "
-"connecting to ravend at {{host}}:{{port}} and failed.)"
+"Can't connect to ritod to get live updates from the p2p network. (Tried "
+"connecting to ritod at {{host}}:{{port}} and failed.)"
 msgstr ""
-"Невозможно подключиться к ravend для получения живых обновлений из сети p2p. "
-"(Пробовал подключиться к ravend на {{host}}: {{port}} и не удалось.)"
+"Невозможно подключиться к ritod для получения живых обновлений из сети p2p. "
+"(Пробовал подключиться к ritod на {{host}}: {{port}} и не удалось.)"
 
 #: public/views/charts.html
 msgid "Charts"
@@ -205,8 +205,8 @@ msgid "Last Block"
 msgstr "Последний блок"
 
 #: public/views/status.html
-msgid "Last Block Hash (Ravend)"
-msgstr "Хранение последнего блока (Ravend)"
+msgid "Last Block Hash (Ritod)"
+msgstr "Хранение последнего блока (Ritod)"
 
 #: public/views/index.html
 msgid "Latest Blocks"
@@ -318,20 +318,20 @@ msgid "PSA for Pool Operators:"
 msgstr "Объявление о публикации для операторов пула:"
 
 #: public/views/messages_verify.html
-msgid "Ravencoin comes with a way of signing arbitrary messages."
-msgstr "Ravencoin имеет способ подписания произвольных сообщений."
+msgid "Ritocoin comes with a way of signing arbitrary messages."
+msgstr "Ritocoin имеет способ подписания произвольных сообщений."
 
 #: public/views/index.html
-msgid "Ravencoin Community"
-msgstr "Сообщество Ravencoin"
+msgid "Ritocoin Community"
+msgstr "Сообщество Ritocoin"
 
 #: public/views/status.html
-msgid "Ravencoin node information"
-msgstr "Информация о узле Ravencoin"
+msgid "Ritocoin node information"
+msgstr "Информация о узле Ritocoin"
 
 #: public/views/index.html
-msgid "Ravencore"
-msgstr "Ravencore"
+msgid "Ritocore"
+msgstr "Ritocore"
 
 #: public/views/transaction_sendraw.html
 msgid "Raw transaction data"
@@ -447,15 +447,15 @@ msgstr "С этим адресом нет транзакций."
 #: public/views/transaction_sendraw.html
 msgid ""
 "This form can be used to broadcast a raw transaction in hex format over\n"
-"        the Ravencoin network."
+"        the Ritocoin network."
 msgstr ""
 "Эта форма может использоваться для трансляции исходной транзакции\n"
-"        в шестнадцатеричном формате сети Ravencoin."
+"        в шестнадцатеричном формате сети Ritocoin."
 
 #: public/views/messages_verify.html
 msgid ""
 "This form can be used to verify that a message comes from\n"
-"        a specific Ravencoin address."
+"        a specific Ritocoin address."
 msgstr ""
 "Эта форма может использоваться для проверки того, что\n"
 "        сообщение поступает из конкретный адрес Равенкойна."
