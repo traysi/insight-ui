@@ -161,10 +161,10 @@ msgstr "インターネットに接続できません。コネクションを確
 
 #: public/views/includes/connection.html
 msgid ""
-"Can't connect to ravend to get live updates from the p2p network. (Tried "
-"connecting to ravend at {{host}}:{{port}} and failed.)"
+"Can't connect to ritod to get live updates from the p2p network. (Tried "
+"connecting to ritod at {{host}}:{{port}} and failed.)"
 msgstr ""
-"P2Pネットワークからライブ情報を取得するためにravendへ接続することができません"
+"P2Pネットワークからライブ情報を取得するためにritodへ接続することができません"
 "でした。({{host}}:{{port}} への接続を試みましたが、失敗しました。)"
 
 #: public/views/rich_list.html
@@ -196,8 +196,8 @@ msgid "Connections to other nodes"
 msgstr "他ノードへの接続"
 
 #: public/views/status.html
-msgid "Current Blockchain Tip (ravencore)"
-msgstr "現在のブロックチェーンのヒント（ravencore）"
+msgid "Current Blockchain Tip (ritocore)"
+msgstr "現在のブロックチェーンのヒント（ritocore）"
 
 #: public/views/statistics.html
 msgid "Current Network Hashrate"
@@ -305,8 +305,8 @@ msgid "Last Block"
 msgstr "直前のブロック"
 
 #: public/views/status.html
-msgid "Last Block Hash (ravend)"
-msgstr "最後のブロックハッシュ（ravend）"
+msgid "Last Block Hash (ritod)"
+msgstr "最後のブロックハッシュ（ritod）"
 
 #: public/views/block_list.html
 msgid "Lastest block from date"
@@ -474,40 +474,40 @@ msgid "Rank"
 msgstr "序列"
 
 #: public/views/charts.html
-msgid "Ravencoin Circulation"
-msgstr "Ravencoin 流通"
+msgid "Ritocoin Circulation"
+msgstr "Ritocoin 流通"
 
 #: public/views/messages_verify.html
-msgid "Ravencoin comes with a way of signing arbitrary messages."
-msgstr "Ravencoinには任意のメッセージを署名する昨日が備わっています。"
+msgid "Ritocoin comes with a way of signing arbitrary messages."
+msgstr "Ritocoinには任意のメッセージを署名する昨日が備わっています。"
 
 #: public/views/index.html
-msgid "Ravencoin Community"
-msgstr "Ravencoinコミュニティ"
+msgid "Ritocoin Community"
+msgstr "Ritocoinコミュニティ"
 
 #: public/views/rich_list.html
-msgid "Ravencoin Distribution"
-msgstr "Ravencoin 分布"
+msgid "Ritocoin Distribution"
+msgstr "Ritocoin 分布"
 
 #: public/views/statistics.html
-msgid "Ravencoin Mined:"
-msgstr "Ravencoin 鉱山："
+msgid "Ritocoin Mined:"
+msgstr "Ritocoin 鉱山："
 
 #: public/views/pools.html
-msgid "Ravencoin Pools"
-msgstr "Ravencoinプール"
+msgid "Ritocoin Pools"
+msgstr "Ritocoinプール"
 
 #: public/views/statistics.html
-msgid "Ravencoin Pools Stats"
-msgstr "Ravencoinプール統計"
+msgid "Ritocoin Pools Stats"
+msgstr "Ritocoinプール統計"
 
 #: public/views/statistics.html
-msgid "Ravencoin Statistics for the last 24 hours"
-msgstr "Ravencoin 過去24時間の統計"
+msgid "Ritocoin Statistics for the last 24 hours"
+msgstr "Ritocoin 過去24時間の統計"
 
 #: public/views/index.html
-msgid "Ravencore"
-msgstr "Ravencore"
+msgid "Ritocore"
+msgstr "Ritocore"
 
 #: public/views/transaction_sendraw.html
 msgid "Raw transaction data"
@@ -611,8 +611,8 @@ msgid "Synced Blocks"
 msgstr "同期されたブロック数"
 
 #: public/views/charts.html
-msgid "The current supply of Ravencoin on the network."
-msgstr "ネットワーク上のRavencoinの現在の供給。"
+msgid "The current supply of Ritocoin on the network."
+msgstr "ネットワーク上のRitocoinの現在の供給。"
 
 #: public/views/dummy-translations.html
 msgid "The daily average of fees paid to miners per transaction."
@@ -627,8 +627,8 @@ msgid "The message is verifiably from {{verification.address}}."
 msgstr "メッセージは{{verification.address}}により検証されました。"
 
 #: public/views/dummy-translations.html
-msgid "The number of daily confirmed RVN transactions."
-msgstr "毎日確認されたRVNトランザクションの数。"
+msgid "The number of daily confirmed RITO transactions."
+msgstr "毎日確認されたRITOトランザクションの数。"
 
 #: public/views/dummy-translations.html
 msgid ""
@@ -645,17 +645,17 @@ msgstr "このアドレスに対するトランザクションはありません
 #: public/views/transaction_sendraw.html
 msgid ""
 "This form can be used to broadcast a raw transaction in hex format over\n"
-"        the Ravencoin network."
+"        the Ritocoin network."
 msgstr ""
-"このフォームでは、16進数フォーマットの生のトランザクションをRavencoinネット"
+"このフォームでは、16進数フォーマットの生のトランザクションをRitocoinネット"
 "ワーク上に配信することができます。"
 
 #: public/views/messages_verify.html
 msgid ""
 "This form can be used to verify that a message comes from\n"
-"        a specific Ravencoin address."
+"        a specific Ritocoin address."
 msgstr ""
-"このフォームでは、メッセージが特定のRavencoinアドレスから来たかどうかを検証す"
+"このフォームでは、メッセージが特定のRitocoinアドレスから来たかどうかを検証す"
 "ることができます。"
 
 #: public/views/statistics.html
@@ -788,27 +788,27 @@ msgstr "トランザクションを待っています..."
 
 #~ msgid ""
 #~ "<strong>insight</strong>  is an <a href=\"http://live.insight.is/\" "
-#~ "target=\"_blank\">open-source Ravencoin blockchain explorer</a> with "
+#~ "target=\"_blank\">open-source Ritocoin blockchain explorer</a> with "
 #~ "complete REST and websocket APIs that can be used for writing web wallets "
 #~ "and other apps  that need more advanced blockchain queries than provided "
-#~ "by ravend RPC.  Check out the <a href=\"https://github.com/underdarkskies/"
+#~ "by ritod RPC.  Check out the <a href=\"https://github.com/traysi/"
 #~ "insight-ui\" target=\"_blank\">source code</a>."
 #~ msgstr ""
-#~ "<strong>insight</strong>は、ravend RPCの提供するものよりも詳細なブロック"
+#~ "<strong>insight</strong>は、ritod RPCの提供するものよりも詳細なブロック"
 #~ "チェインへの問い合わせを必要とするウェブウォレットやその他のアプリを書くの"
 #~ "に使える、完全なRESTおよびwebsocket APIを備えた<a href=\"http://live."
 #~ "insight.is/\" target=\"_blank\">オープンソースのビットコインブロックエクス"
-#~ "プローラ</a>です。<a href=\"https://github.com/underdarkskies/insight-ui"
+#~ "プローラ</a>です。<a href=\"https://github.com/traysi/insight-ui"
 #~ "\" target=\"_blank\">ソースコード</a>を確認"
 
 #~ msgid ""
 #~ "<strong>insight</strong> is still in development, so be sure to report "
 #~ "any bugs and provide feedback for improvement at our <a href=\"https://"
-#~ "github.com/underdarkskies/insight/issues\" target=\"_blank\">github issue "
+#~ "github.com/traysi/insight/issues\" target=\"_blank\">github issue "
 #~ "tracker</a>."
 #~ msgstr ""
 #~ "<strong>insight</strong>は現在開発中です。<a href=\"https://github.com/"
-#~ "underdarkskies/insight/issues\" target=\"_blank\">githubのissueトラッカ</"
+#~ "traysi/insight/issues\" target=\"_blank\">githubのissueトラッカ</"
 #~ "a>にてバグの報告や改善案の提案をお願いします。"
 
 #~ msgid "About"
@@ -830,7 +830,7 @@ msgstr "トランザクションを待っています..."
 #~ msgstr "テストネット"
 
 #~ msgid "Total Amount"
-#~ msgstr "Ravencoin総量"
+#~ msgstr "Ritocoin総量"
 
 #~ msgid "Transaction Output Set Information"
 #~ msgstr "トランザクションの出力セット情報"
